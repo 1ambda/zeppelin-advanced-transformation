@@ -1,0 +1,8 @@
+node_modules/
+*.iml
+.idea/
+npm-debug.log
+yarn-error.log
+
+examples/
+

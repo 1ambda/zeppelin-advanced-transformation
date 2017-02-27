@@ -1,0 +1,9 @@
+{
+  "type" : "VISUALIZATION",
+  "name" : "local-test-highcharts-columnrange",
+  "version" : "local",
+  "description": "Column range chart using highcharts library",
+  "artifact" : "/Users/1ambda/github/1ambda/zeppelin-advanced-transformation/examples/local-test-highcharts-columnrange",
+  "icon": "<i class=\"fa fa-align-center\" style=\"color: red;\"></i>",
+  "license": "Highcharts (https://shop.highsoft.com/faq/licensing)"
+}
