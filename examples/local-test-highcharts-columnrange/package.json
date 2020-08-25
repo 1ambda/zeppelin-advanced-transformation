@@ -10,7 +10,7 @@
   "author": "1ambda",
   "license": "SEE LICENSE IN <LICENSE>",
   "dependencies": {
-    "highcharts": "^5.0.6",
+    "highcharts": "^8.2.0",
     "zeppelin-tabledata": "*",
     "zeppelin-vis": "*"
   },
